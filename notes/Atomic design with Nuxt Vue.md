@@ -1,6 +1,6 @@
 ---
 share: true
-"path:": this.file.name/index.md
+title: file.name/index.md
 tags:
   - vue
   - frontend
