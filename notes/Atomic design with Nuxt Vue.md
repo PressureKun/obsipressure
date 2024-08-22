@@ -1,13 +1,5 @@
 ---
 share: true
-title: file.name/index.md
-tags:
-  - vue
-  - frontend
-  - atomic-design
-  - concept
-  - methodology
-  - nuxt
 ---
 #vue #frontend #atomic-design #concept #methodology #nuxt
 
