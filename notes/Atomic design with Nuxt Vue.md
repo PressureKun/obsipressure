@@ -1,20 +1,27 @@
 ---
 share: true
+tags:
+  - vue
+  - frontend
+  - atomic-design
+  - concept
+  - methodology
+  - nuxt
 ---
 #vue #frontend #atomic-design #concept #methodology #nuxt
 
 ---
-- [[#База|База]]
-- [[#Основные концепции атомарного дизайна|Основные концепции атомарного дизайна]]
-- [[#Шаблоны и страницы в Atomic Design - разница|Шаблоны и страницы в Atomic Design - разница]]
-- [[#Пример структуры проекта в Nuxt.js|Пример структуры проекта в Nuxt.js]]
-- [[#Примеры компонентов|Примеры компонентов]]
-	- [[#Примеры компонентов#Атомы|Атомы]]
-	- [[#Примеры компонентов#Молекулы|Молекулы]]
-	- [[#Примеры компонентов#Организмы|Организмы]]
-	- [[#Примеры компонентов#Шаблоны|Шаблоны]]
-	- [[#Примеры компонентов#Страницы|Страницы]]
-- [[#Пример структуры папок для нашего template_project|Пример структуры папок для нашего template_project]]
+- [База](Atomic%20design%20with%20Nuxt%20Vue.md#baza)
+- [Основные концепции атомарного дизайна](Atomic%20design%20with%20Nuxt%20Vue.md#osnovnye-koncepcii-atomarnogo-dizajna)
+- [Шаблоны и страницы в Atomic Design - разница](Atomic%20design%20with%20Nuxt%20Vue.md#shablony-i-stranicy-v-atomic-design-raznica)
+- [Пример структуры проекта в Nuxt.js](Atomic%20design%20with%20Nuxt%20Vue.md#primer-struktury-proekta-v-nuxtjs)
+- [Примеры компонентов](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+	- [Атомы](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+	- [Молекулы](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+	- [Организмы](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+	- [Шаблоны](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+	- [Страницы](Atomic%20design%20with%20Nuxt%20Vue.md#primery-komponentov)
+- [Пример структуры папок для нашего template_project](Atomic%20design%20with%20Nuxt%20Vue.md#primer-struktury-papok-dlya-nashego-templateproject)
 ---
 
 ### База
